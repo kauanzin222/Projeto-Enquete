@@ -14,6 +14,12 @@ button {
     font-size: 1rem;
 }
 
+button:hover {
+    background-color: #bfbddf;
+    color: #000000;
+    cursor: pointer;
+}
+
 input {
     width: 70%;
     margin-bottom: 1.75rem;
@@ -24,6 +30,10 @@ input {
     color: #1D0C20;
     font-size: 1rem;
     padding: 0.31rem;
+}
+
+input:hover {
+    cursor: text;
 }
 
 input:focus {
