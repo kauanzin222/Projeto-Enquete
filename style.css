@@ -1,5 +1,5 @@
 body {
-    background-color: #f5f5f5;
+    background-color: #CCCCCC;
     font-family: 'Poppins', sans-serif;
 }
 
@@ -16,7 +16,7 @@ button {
 
 input {
     width: 70%;
-    margin-bottom: 1.25rem;
+    margin-bottom: 1.75rem;
     height: 1.375rem;
     border-radius: 0.17rem;
     border: 0;
@@ -36,7 +36,7 @@ a {
 }
 
 .container {
-    background-color: #200D23;
+    background: linear-gradient(to bottom, #200D24, #641E70);
     font-size: 15px;
     color: #f5f5f5;
     max-width: 43.75rem;
@@ -59,7 +59,7 @@ a {
 }
 
 .sub-container {
-    background-color: #5A1C64;
+    background: linear-gradient(to bottom, #5D1D68, #321238);
     text-align: center;
     width: 90%;
     margin: auto;
@@ -82,12 +82,13 @@ a {
 }
 
 .card {
-    background-color: #5084F4;
+    background: linear-gradient(to bottom, #2738DA, #6ABAFC);
     margin: 0.31rem;
     border-radius: 0.625rem;
-    border: 0.625rem solid #2D30B1;
-    width: 30%;
+    border: 0.625rem solid #2738DA;
+    width: 28%;
     font-size: 1.44rem;
+    font-weight: 500;
     padding-top: 2.19rem;
     height: auto;
     box-sizing: border-box;
